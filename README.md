@@ -1,7 +1,8 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+Role that will install java on CentOS 8 server.
+Shamelessly copy/pasted from various places
 
 Requirements
 ------------
